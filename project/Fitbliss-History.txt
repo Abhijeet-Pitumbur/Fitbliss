@@ -1,0 +1,76 @@
+                          ---------- EXERCISE HISTORY ----------                          
+ 
+USERNAME             EXERCISE             DURATION        CALORIES        DATE            
+ 
+Abhijeet             Jump rope            41              615             01-07-2022      
+Abhijeet             Badminton            84              756             01-07-2022      
+Abhijeet             Gymnastics           89              534             02-07-2022      
+Abhijeet             Running              107             1284            03-07-2022      
+Abhijeet             Tennis               8               72              03-07-2022      
+Abhijeet             Walking              111             444             03-07-2022      
+Abhijeet             Weight training      59              354             03-07-2022      
+Abhijeet             Football             27              243             03-07-2022      
+Abhijeet             Swimming             12              84              04-07-2022      
+Abhijeet             Walking              15              60              04-07-2022      
+Abhijeet             Aerobics             20              160             04-07-2022      
+Abhijeet             Tennis               52              468             05-07-2022      
+Abhijeet             Aerobics             99              792             05-07-2022      
+Abhijeet             Basketball           120             1080            05-07-2022      
+Abhijeet             Football             95              855             06-07-2022      
+Abhijeet             Basketball           76              684             10-07-2022      
+Abhijeet             Walking              20              80              12-07-2022      
+Abhijeet             Badminton            41              369             12-07-2022      
+Abhijeet             Swimming             38              266             13-07-2022      
+Abhijeet             Aerobics             93              744             13-07-2022      
+Abhijeet             Weight training      35              210             14-07-2022      
+Abhijeet             Gymnastics           59              354             14-07-2022      
+Abhijeet             Football             27              243             14-07-2022      
+Abhijeet             Aerobics             30              240             14-07-2022      
+Abhijeet             Volleyball           37              444             14-07-2022      
+Abhijeet             Running              48              576             14-07-2022      
+Viman                Football             96              864             15-07-2022      
+Viman                Weight training      49              294             15-07-2022      
+Viman                Stair climbing       10              70              15-07-2022      
+Abhijeet             Aerobics             27              216             15-07-2022      
+Abhijeet             Running              29              348             15-07-2022      
+Viman                Walking              37              148             15-07-2022      
+Oudish               Aerobics             40              320             16-07-2022      
+Oudish               Running              72              864             16-07-2022      
+Oudish               Weight training      43              258             16-07-2022      
+Oudish               Badminton            28              252             16-07-2022      
+Oudish               Walking              24              96              16-07-2022      
+Viman                Jump rope            22              330             16-07-2022      
+Viman                Running              61              732             16-07-2022      
+Abhijeet             Jump rope            18              270             16-07-2022      
+Abhijeet             Volleyball           34              408             16-07-2022      
+Abhijeet             Jump rope            17              255             16-07-2022      
+Viman                Weight training      16              96              16-07-2022      
+Viman                Walking              41              164             16-07-2022      
+Abhijeet             Jump rope            16              240             16-07-2022      
+Abhijeet             Basketball           24              216             16-07-2022      
+Abhijeet             Stair climbing       41              287             16-07-2022      
+Abhijeet             Cycling              14              168             16-07-2022      
+Viman                Gymnastics           48              288             20-07-2022      
+Abhijeet             Swimming             25              175             20-07-2022      
+Abhijeet             Stair climbing       32              224             20-07-2022      
+Oudish               Aerobics             18              144             20-07-2022      
+Abhijeet             Stair climbing       13              91              20-07-2022      
+Abhijeet             Cycling              37              444             20-07-2022      
+Viman                Walking              38              152             20-07-2022      
+Abhijeet             Volleyball           23              276             20-07-2022      
+Oudish               Swimming             9               63              20-07-2022      
+Viman                Basketball           37              333             20-07-2022      
+Abhijeet             Jump rope            16              240             20-07-2022      
+Abhijeet             Walking              7               28              20-07-2022      
+Viman                Running              13              156             20-07-2022      
+Oudish               Walking              101             404             20-07-2022      
+Oudish               Weight training      16              96              20-07-2022      
+Oudish               Badminton            27              243             20-07-2022      
+Oudish               Gymnastics           23              138             20-07-2022      
+James                Jump rope            13              195             23-07-2022      
+James                Walking              48              192             23-07-2022      
+James                Jump rope            13              195             23-07-2022      
+James                Volleyball           32              384             23-07-2022      
+James                Walking              45              180             23-07-2022      
+James                Weight training      107             642             23-07-2022      
+James                Walking              14              56              23-07-2022      
